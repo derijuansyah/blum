@@ -1,1 +1,2 @@
-query_id=xxxx
+query_id=AAGyalkMAwAAALJqWQwZCDr4&user=%7B%22id%22%3A6649637554%2C%22first_name%22%3A%22Hu%22%2C%22last_name%22%3A%22117%22%2C%22username%22%3A%22Airdropslast%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719577001&hash=79c0a82640af6e1f33abf2e13a5709dbcd06a563a87020b4da768e07f2a2eaf8
+query_id=AAGHlI4LAwAAAIeUjgtIa45x&user=%7B%22id%22%3A6636344455%2C%22first_name%22%3A%22Airdropsnear%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22airdropsnear%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719577164&hash=98dd8090d32f99374c0f8055c2192f29bb4bdf29bd5354e8455abc170e37f8c8
